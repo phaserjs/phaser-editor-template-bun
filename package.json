@@ -1,5 +1,5 @@
 {
-    "name": "template-bun",
+    "name": "phaser-editor-template-bun",
     "description": "A Phaser 3 template using bun.",
     "version": "1.0.1",
     "repository": {
